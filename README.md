@@ -3,7 +3,7 @@ The code used to visualize the output of the DAMP21ka reconstruction
 
 
 ## Data
-- The reconstruction is available at: /Data/results/holocene_recon_2024-02-26_13:07:51.362508_annual_DAMP21ka.8000loc.5000window.500/holocene_recon_2024-02-26_13:07:51.362508_annual_DAMP21ka.8000loc.5000window.500..nc
+- The reconstruction is available at: /Data/results/DAMP21ka/DAMP21ka.nc
   - The formatting of this file is described in section 5.1 of the readme for the Holocene-code link below
 - The proxy data (as LiPD files) is available at: /Data/proxies/Lakes21k
 
